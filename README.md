@@ -5,8 +5,8 @@
 ### 🚀 Tecnologías que uso:
 - Frontend: HTML, CSS, JavaScript, React
 - Backend: PHP, Node.js
-- Bases de datos: MySQL, MongoDB
-- Herramientas: Git, Docker, Linux
+- Bases de datos: MySQL, SQL Server
+- Herramientas: Git, Visual Estudio, Linux
 
 ### 📂 Proyectos destacados:
 - [Mi portafolio](https://github.com/Alexds30/mi-portafolio)
